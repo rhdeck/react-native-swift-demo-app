@@ -6,7 +6,7 @@ I was going to post the react native project for this, but it's actually pretty 
 react-native init [projectname]
 cd [projectname]
 Copy the App.js from this repository into your project directory. 
-npm install --save https://github.com/rhdeck/react-native-swift-demo-module
+npm install --save rhdeck/react-native-swift-demo-module
 npm install --save react-native-swift
 npm install 
 react-native link
